@@ -1,0 +1,14 @@
+
+             /* Змінні CSS */
+
+:root {
+    --main-text-color:#777;
+    --white-color: #ffffff;
+    --black-titel-bcg-color: #222;
+    --svg-text-color:#fed136;
+    --form-text-color:#bbb;
+}
+.body {
+    font-family: "Montserrat", system-ui;
+    background-color: var(--white-color);
+}
